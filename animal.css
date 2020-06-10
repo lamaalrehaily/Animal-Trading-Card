@@ -1,0 +1,33 @@
+.tradincard { 
+    width: 300px;
+border: 1px solid #dad7d7b6;
+box-shadow:6px 6px 1px 0px rgb(235, 235, 235);
+padding-right: 0.7em;
+padding-left: 0.7em;
+padding-bottom: 0.6em;
+flex-wrap: wrap;
+}
+.interestingfact {
+    width: 280px;
+border: 1px solid #dad7d7b6;
+    padding-left: 0.5em;
+    padding-right :0.5em;
+}
+.catpic {
+    padding-bottom: 0.8em
+  
+}
+
+.catfact {
+    font-style: italic;
+}
+
+.informationlist{
+    list-style-type: none;
+    padding:0;
+    margin:0;
+
+}
+span{
+    font-weight: bold;
+}
